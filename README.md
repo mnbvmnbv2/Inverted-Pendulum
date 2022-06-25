@@ -1,1 +1,1 @@
-# Inverted-Pendulum
+Pendulum
